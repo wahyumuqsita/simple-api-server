@@ -21,13 +21,7 @@ This project demonstrates a basic API server using Flask. The server has a singl
    cd flask-hello-world-api
    ```
 
-2. **Install Flask**:
-   Make sure you have `pip` installed. Then, install Flask:
-   ```bash
-   pip install flask
-   ```
-
-3. **Edit `app.py`**:
+2. **Edit `app.py`**:
    Ensure you have the following code in `app.py`:
    ```python
    from flask import Flask, jsonify
